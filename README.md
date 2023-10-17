@@ -24,6 +24,7 @@ The CSS file is responsible for styling the digital clock. It centers the clock 
 JAVA SCRIPT
 The JavaScript is  updates the time displayed in the clock every second using the setInterval function.
 
+
 How to Use
 
 1 , Download or clone the repository to your local machine.
