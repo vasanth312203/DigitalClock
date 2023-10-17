@@ -8,7 +8,7 @@ NickName :  Million Dollar Coder
 Language Used: HTML , Css and Js
 Software Used : VScode and google chorme
 Date : 17 - 10 - 23
-License : MIT license
+License : MIT license ( https://github.com/vasanth312203/DigitalClock/blob/ccb9736eb74e9bf9740a6ef274f835305e431f62/LICENSE )
 
 
 Description : 
@@ -30,3 +30,7 @@ How to Use
 1 , Download or clone the repository to your local machine.
 2 , Open the time.html file in a web browser.
 3 , The digital clock will be displayed and will continuously update to show the current time.
+
+
+
+
