@@ -18,7 +18,7 @@ BY   Million Dollar Coder
    License : MIT license
 ( https://github.com/vasanth312203/DigitalClock/blob/ccb9736eb74e9bf9740a6ef274f835305e431f62/LICENSE )
 
-
+<img src="image.png" alt="W3Schools.com">
 Description : 
 
 This is a simple digital clock application created using HTML, CSS, and JavaScript. It displays the current time in a 12-hour format on a web page.
